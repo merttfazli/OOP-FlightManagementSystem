@@ -1,3 +1,3 @@
 # Uçuş Yönetim Sistemi Uml Diagramı
 
-![alt text](file:///C:/Users/merts/Masaüstü/uml.JPG)
+![alt text](https://github.com/merttfazli/OOP-FlightManagementSystem/blob/main/flightManagementSystem.JPG)
